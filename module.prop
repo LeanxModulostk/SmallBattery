@@ -1,0 +1,6 @@
+id=smallbattery
+name=Small Battery
+version=v1
+versionCode=1
+author=@LeanHijosdesusMadres [telegram]
+description=This module makes the system think that it has a smaller battery than normal, which will apply more precise adjustments to save battery. @modulostk
