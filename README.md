@@ -13,6 +13,9 @@ This will probably disable advanced features (such as the ro.config.low_ram prop
 - [GitHub](https://github.com/LeanxModulostk/SmallBattery) 
 - [Telegram Channel](https://t.me/modulostk)
 
+## Extras
+- Donations: [PayPal](https://www.paypal.me/LeanHijosdesusMadres) - [LiberaPay](https://liberapay.com/LeanHijosdesusMadres) - [Ko-fi](https://ko-fi.com/leantupapi) - [Binance](https://app.binance.com/qr/dplk7b28e9c123ff4e378b472505b0adba63) - [SociaBuzz](https://sociabuzz.com/leanhijosdesusmadres/support) - [More](https://t.me/modulemagiskChiase/4846)
+
 ## Special Thanks
 
 • [Google 💩](https://android.googlesource.com/platform/frameworks/base.git/+/master/core/java/com/android/internal/os/RoSystemProperties.java)
