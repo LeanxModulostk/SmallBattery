@@ -1,0 +1,20 @@
+# KernelSU Modules catalog metadata (modules.kernelsu.org).
+# Display only: version, versionCode and the download come from module.prop inside the release ZIP.
+schemaVersion: 1
+id: smallbattery
+name: Small Battery
+summary: This module makes the system think that it has a smaller battery than normal, which will apply more precise adjustments to save battery.
+description: README.md
+license: MIT
+homepage: https://github.com/LeanxModulostk/SmallBattery
+support: https://t.me/modulostk
+tags: [battery, reduce, disable, save, drain]
+icon: lean.jpg
+authors:
+  - name: Lean
+    url: https://github.com/LeanxModulostk
+compatibility:
+  androidMinApi: 21
+  architectures: [arm64-v8a, armeabi-v7a, x86_64]
+release:
+  assetPattern: "Small-Battery-v*.zip"
